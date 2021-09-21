@@ -1,0 +1,9 @@
+ryvencore-qt
+Jinja2
+Pygments
+numpy
+pandas
+tensorflow
+matplotlib
+seaborn
+scikit-learn
