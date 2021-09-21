@@ -54,7 +54,7 @@ class StartupDialog(QDialog):
         info_text_edit.setHtml('''
             <center>
                 <h2 style="font-family: Segoe UI; font-size: xx-large; font-weight: 400; color: #a9d5ef;">
-                    Welcome to Ryven
+                    Welcome to Breeze
                 </h2>
             </center>
             <div style="font-family: Corbel; font-size: x-large;">
